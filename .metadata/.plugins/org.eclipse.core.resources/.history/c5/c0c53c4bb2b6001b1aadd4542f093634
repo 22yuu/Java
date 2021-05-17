@@ -1,0 +1,24 @@
+package sub1;
+
+/* 날짜 : 2021/05/17
+ * 이름 : 이진유
+ * 내용 : 자바 변수의 자료형 실습하기*/
+
+public class DataTypeTest {
+
+	public static void main(String[] args) {
+		
+		//정수형
+		byte num1 = 127;
+		short num2 = 32767;
+		int num3 = 2147483647; // 2147483647까지 저장 2147483648 안됨
+		long num4 = 1000L; // L을 붙여주면 long 타입이다.
+		
+		//정수형
+		//정수형
+		//정수형
+		//정수형
+		//정수형
+		
+	}
+}
