@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SwitchTest {
 	
 	/*
-	 * 날짜 : 2021/05/17
+	 * 날짜 : 2021/05/18
 	 * 이름 : 이진유
 	 * 내용 : 자바 switch 실습하기
 	 * */

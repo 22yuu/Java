@@ -3,7 +3,7 @@ package sub1;
 import java.util.Scanner;
 
 /*
- * 날짜 : 2021/05/17
+ * 날짜 : 2021/05/18
  * 이름 : 이진유
  * 내용 : 자바 if 조건문 실습하기
  * */
